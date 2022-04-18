@@ -302,7 +302,6 @@ Cand matrice[a][b]==3 trebuie sa afiseze o moneda
 
 void meniu()
 {
-    const char bonol[] = "Bonol (L-Game)";
     setcolor(5);
     settextstyle(6, HORIZ_DIR, 10);
     outtextxy(100, 100, "Bonol (L-Game)");
