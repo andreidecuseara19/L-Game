@@ -1,26 +1,4 @@
-graphics.h
-Who has access
-T
-D
-System properties
-Type
-C
-Size
-14 KB
-Storage used
-14 KB
-Location
-L - Game
-Owner
-Tudor Vasilache
-Modified
-Nov 27, 2018 by Tudor Vasilache
-Opened
-4:29 PM by me
-Created
-Nov 27, 2018
-Add a description
-Viewers can download
+
 // The winbgim library, Version 6.0, August 9, 2004
 // Written by:
 //      Grant Macklem (Grant.Macklem@colorado.edu)
